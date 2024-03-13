@@ -6,9 +6,9 @@ You can run this code on your own machine or on Google Colab.
 
 2. **Colab:** The first few sections of the notebook will install all required dependencies. You can try out the Colab option by clicking the badges below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cmuroboticsdrl/16831_S24_HW/blob/main/hw4/rob831/hw4_part1/scripts/run_hw4_mb.ipynb) **Part I (Model Based Learning)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeCAR-Lab/16831-S24-HW/blob/main/hw4/rob831/hw4_part1/scripts/run_hw4_mb.ipynb) **Part I (Model Based Learning)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cmuroboticsdrl/16831_S24_HW/blob/main/hw4/run_hw4_expl.ipynb) **Part I (Exploration)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeCAR-Lab/16831-S24-HW/blob/main/hw4/run_hw4_expl.ipynb) **Part I (Exploration)**
 
 ## Complete the code
 
