@@ -29,5 +29,6 @@ if __name__ == '__main__':
     eventfile = glob.glob(logdir)[0]
 
     X, Y = get_section_results(eventfile)
+    
     for i, (x, y) in enumerate(zip(X, Y)):
         print('Iteration {:d} | Train steps: {:d} | Return: {}'.format(i, int(x), y))
