@@ -8,7 +8,7 @@ You can run this code on your own machine or on Google Colab.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeCAR-Lab/16831-S24-HW/blob/main/hw4/rob831/hw4_part1/scripts/run_hw4_mb.ipynb) **Part I (Model Based Learning)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeCAR-Lab/16831-S24-HW/blob/main/hw4/run_hw4_expl.ipynb) **Part II (Exploration)**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeCAR-Lab/16831-S24-HW/blob/main/hw4/rob831/hw4_part2/scripts/run_hw4_expl.ipynb) **Part II (Exploration)**
 
 ## Complete the code
 
@@ -33,9 +33,9 @@ You may also want to look through [scripts/run_hw4_mb.py](rob831/hw4_part1/scrip
 The following files have blanks to be filled with your solutions from homework 1 and 3. The relevant sections are marked with `TODO'. You can get solutions from Ed. 
 
 - [rob831/hw4_part2/infrastructure/utils.py](rob831/hw4_part2/infrastructure/utils.py)
-- [rob831/hw4_part2/infrastructure/rl_trainer.py](rob831/hw4_part2//infrastructure/rl_trainer.py)
+- [rob831/hw4_part2/infrastructure/rl_trainer.py](rob831/hw4_part2/infrastructure/rl_trainer.py)
 - [rob831/hw4_part2/policies/MLP_policy.py](rob831/hw4_part2/policies/MLP_policy.py)
-- [rob831/hw4_part2/policies/argmax_policy.py](rob831/hw4_part2//policies/argmax_policy.py)
+- [rob831/hw4_part2/policies/argmax_policy.py](rob831/hw4_part2/policies/argmax_policy.py)
 - [rob831/hw4_part2/critics/dqn_critic.py](rob831/hw4_part2/critics/dqn_critic.py)
 
 You will then need to implement code in the following files:
